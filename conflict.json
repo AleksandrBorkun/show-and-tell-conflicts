@@ -1,9 +1,5 @@
 {
     "line1": "value1",
     "line2": "value2",
-<<<<<<< HEAD
-=======
-    "line3": "value3",
->>>>>>> master
     "line4": "value4"
 }
